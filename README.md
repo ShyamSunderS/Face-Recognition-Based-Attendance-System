@@ -20,7 +20,7 @@ As the name suggests, this project helps in monitoring the attendance for any cl
 #
 ## Screenshots of Output
  
-#![](https://user-images.githubusercontent.com/68478902/177007267-0a5ca81d-16e1-4949-9665-19d36055511b.jpeg)
+![](https://user-images.githubusercontent.com/68478902/177007267-0a5ca81d-16e1-4949-9665-19d36055511b.jpeg)
 
 
 ## Demo
